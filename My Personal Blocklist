@@ -13,11 +13,11 @@
 0.0.0.0 insider.com
 
 # Blocking all subdomains for the listed domains
-0.0.0.0 *.bild.de
-0.0.0.0 *.autobild.de
-0.0.0.0 *.sportbild.de
-0.0.0.0 *.computerbild.de
-0.0.0.0 *.welt.de
-0.0.0.0 *.politico.com
-0.0.0.0 *.businessinsider.com
-0.0.0.0 *.insider.com
+# 0.0.0.0 *.bild.de
+# 0.0.0.0 *.autobild.de
+# 0.0.0.0 *.sportbild.de
+# 0.0.0.0 *.computerbild.de
+# 0.0.0.0 *.welt.de
+# 0.0.0.0 *.politico.com
+# 0.0.0.0 *.businessinsider.com
+# 0.0.0.0 *.insider.com
